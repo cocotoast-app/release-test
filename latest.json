@@ -1,0 +1,10 @@
+{
+  "version": "0.7.3",
+  "pub_date": "2026-08-15T07:50:21Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcGtNQVYvcHlSR29GSlE4OXl5VE5HUkx1anppSDl2bUswNExkQlhEYmRaazR3b1JSOWRkOHVGODFOcXdDZHJlaDlUdUpWZGN4b1EwK1E5YjBKYU96ZmdwYVZnUEpGN1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzI5NTQ4CWZpbGU6Q29jbyBUb2FzdC5hcHAudGFyLmd6CnM3OHFYdk9lWWdUUUpzT3BERHFqR2ROQXR5ZVg4d2tCcnV1b2NYaXNXOGdBY2R1b1o4dFppOE5vUDhRNUFER2IzQll1ZzZuWjhaN1JZSWNWS3RFK0NnPT0K",
+      "url": "https://github.com/cocotoast-app/release-test/raw/test-release-v2/0.7.3/Coco%20Toast.app.tar.gz"
+    }
+  }
+}
